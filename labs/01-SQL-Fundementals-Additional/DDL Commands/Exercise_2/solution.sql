@@ -1,0 +1,1 @@
+CREATE TABLE employess (fname char(30),lname char(30),email char(50), contact integer);
